@@ -1,0 +1,15 @@
+To: samplemail
+From: ssample Sender
+Subject: This is the sample request one...
+Hey there, 
+This is the smaple email just fot the test purpose.
+No intentions to hurt somebodys feleings at all.
+Thanks, 
+
+To: sampleSender2
+From: ssampleReciever2
+Subject: This is the sample request second...
+Hey there, 
+this is another sample mail body and just to test the py script working
+this si the part of the data preprocesing 
+thanks,\
