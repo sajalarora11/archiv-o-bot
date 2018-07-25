@@ -1,1 +1,3 @@
 # archiv-o-bot
+
+A Script that changes raw emails data into the {Subject: Body} dictionary format. No external packages used so far...
